@@ -64,7 +64,8 @@
 >   - **Network Design**: VPC, Public/Private Subnet, Route Table을 이용한 안전하고 효율적인 네트워크 설계
 >   - **Traffic Control**: Security Group, Internet Gateway, NAT Gateway를 이용한 인/아웃바운드 트래픽 제어
 >   - **Load Balancing**: Auto Scaling Group과 Application Load Balancer를 연동한 고가용성 아키텍처 구축
-> - [프로젝트 상세 자료 (PDF)](./path/to/AWS_Project.pdf)
+> - [프로젝트 상세 자료 - 1 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_1%EC%9D%B8.pdf)
+> - [프로젝트 상세 자료 - 2 (PDF)](https://github.com/Kimjh0619/kjh_pf/blob/main/file/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%96%91%EC%84%B1%20%EA%B5%AD%EB%B9%84%20%EA%B3%BC%EC%A0%95%20-%20AWS_2%EC%9D%B8.pdf)
 
 ### 6. 📜 Terraform을 활용한 네트워크 인프라 자동화 (Network as Code)
 > - **프로젝트 개요**: Terraform을 사용하여 코드로 AWS 네트워크 인프라를 정의하고, GitHub와 연동하여 자동 배포 환경을 구축하여 수동 작업의 오류를 줄이고 배포 속도를 향상시켰습니다.
