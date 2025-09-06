@@ -88,6 +88,5 @@
 ### 📞 연락처 (Contact)
 
 - **이메일**: gomim88@naver.com
-- **GitHub**: <a href="https://github.com/kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/6872828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+- **GitHub**: <a href="https://github.com/Kimjh0619">
   </a>
